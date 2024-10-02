@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://expleasq.github.io/sitemap.html.gz
+Sitemap: https://expleasq.github.io/app/sitemap.html.gz
+Sitemap: https://expleasq.github.io/assets/sitemap.html.gz
+Sitemap: https://expleasq.github.io/css/sitemap.html.gz
+Sitemap: https://expleasq.github.io/data/sitemap.html.gz
+Sitemap: https://expleasq.github.io/includes/sitemap.html.gz
+Sitemap: https://expleasq.github.io/item/sitemap.html.gz
+Sitemap: https://expleasq.github.io/src/sitemap.html.gz
